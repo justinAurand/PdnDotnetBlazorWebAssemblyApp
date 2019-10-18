@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Blazor.Hosting;
-
-namespace PdnBlazorWebApp
+﻿namespace PdnBlazorWebApp
 {
+    using Microsoft.AspNetCore.Blazor.Hosting;
+
     public class Program
     {
         public static void Main(string[] args)
